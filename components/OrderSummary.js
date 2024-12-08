@@ -37,12 +37,12 @@ const OrderSummary = () => {
         </Button>
       </div>
       <div>
-        <span className="flex space-x-2 text-[#949494]">
+        <span className="flex space-x-2 text-[#949494] py-4">
           <Image src="/image/clock.png" />
           <h3>Estimated Delivery Time - 4-7 days</h3>
         </span>
-        <span className="space-y-2 w-[20rem]">
-          <h2 className="pt-2 px-2">100% Secure Payment</h2>
+        <span className=" w-[20rem]">
+          <h2 className=" px-2">100% Secure Payment</h2>
           <Image src="/image/payment.png" width={312} />
         </span>
       </div>
