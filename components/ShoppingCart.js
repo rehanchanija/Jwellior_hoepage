@@ -43,6 +43,7 @@ const ShoppingCart = () => {
             <h1 className="text-2xl pl-6 text-[#065934]">₹ 500</h1>
           </div>
         </div>
+        {/* <OrderSummary /> */}
       </div>
     </div>
   );
